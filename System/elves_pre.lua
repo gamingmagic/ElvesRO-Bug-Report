@@ -93493,7 +93493,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "«œ»∏≈ª",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Hahoe Mask",
+		identifiedDisplayName = "Costume Hahoe Mask",
 		identifiedResourceName = "«œ»∏≈ª",
 		identifiedDescriptionName = {
 			"Class:^6666CC Costume^000000",
