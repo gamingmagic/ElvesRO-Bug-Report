@@ -1,0 +1,21 @@
+Runetbl_info = {
+
+  [RUNETAGIDTBL.EVT] = {
+    [RUNEIDTBL.Rp_21th_Poring] = {
+      Rune_Res = "Rp_21th_Poring",
+      Rune_ActiveList = 76
+    },
+    [RUNEIDTBL.Rp_21th_Lunatic] = {
+      Rune_Res = "Rp_21th_Lunatic",
+      Rune_ActiveList = 77
+    },
+    [RUNEIDTBL.Rp_21th_Fabre] = {
+      Rune_Res = "Rp_21th_Fabre",
+      Rune_ActiveList = 78
+    },
+    [RUNEIDTBL.Rp_21th_Food] = {
+      Rune_Res = "Rp_21th_Food",
+      Rune_ActiveList = 79
+    }
+  }
+}
