@@ -39387,10 +39387,10 @@ tbl = {
 		costume = false
 	},
 	[6228] = {
-		unidentifiedDisplayName = "Safe to 9 Weapon Certificate",
+		unidentifiedDisplayName = "Safe to 9 Weapon Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 9 Weapon Certificate",
+		identifiedDisplayName = "+9 Weapon Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"You can refine your weapon to +9 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-",
@@ -39401,10 +39401,10 @@ tbl = {
 		costume = false
 	},
 	[6229] = {
-		unidentifiedDisplayName = "Safe to 8 Weapon Certificate",
+		unidentifiedDisplayName = "+8 Weapon Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 8 Weapon Certificate",
+		identifiedDisplayName = "+8 Weapon Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"You can refine your weapon to +8 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-",
@@ -39415,10 +39415,10 @@ tbl = {
 		costume = false
 	},
 	[6230] = {
-		unidentifiedDisplayName = "Safe to 7 Weapon Certificate",
+		unidentifiedDisplayName = "+7 Weapon Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 7 Weapon Certificate",
+		identifiedDisplayName = "+7 Weapon Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"Take this certificate, 1 Oridecon and an upgradable Weapon to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.",
@@ -39430,10 +39430,10 @@ tbl = {
 		costume = false
 	},
 	[6231] = {
-		unidentifiedDisplayName = "Safe to 6 Weapon Certificate",
+		unidentifiedDisplayName = "+6 Weapon Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 6 Weapon Certificate",
+		identifiedDisplayName = "+6 Weapon Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"You can refine your weapon to +6 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-",
@@ -39444,10 +39444,10 @@ tbl = {
 		costume = false
 	},
 	[6232] = {
-		unidentifiedDisplayName = "Safe to 9 Armor Certificate",
+		unidentifiedDisplayName = "+9 Armor Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 9 Armor Certificate",
+		identifiedDisplayName = "+9 Armor Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"You can refine your armor to +9 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-",
@@ -39458,10 +39458,10 @@ tbl = {
 		costume = false
 	},
 	[6233] = {
-		unidentifiedDisplayName = "Safe to 8 Armor Certificate",
+		unidentifiedDisplayName = "+8 Armor Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 8 Armor Certificate",
+		identifiedDisplayName = "+8 Armor Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"You can refine your armor to +8 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-",
@@ -39472,10 +39472,10 @@ tbl = {
 		costume = false
 	},
 	[6234] = {
-		unidentifiedDisplayName = "Safe to 7 Armor Certificate",
+		unidentifiedDisplayName = "+7 Armor Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 7 Armor Certificate",
+		identifiedDisplayName = "+7 Armor Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"Take this certificate, 1 Elunium and an upgradable Shield, Shoes, Clothing, or Armor to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.",
@@ -39487,10 +39487,10 @@ tbl = {
 		costume = false
 	},
 	[6235] = {
-		unidentifiedDisplayName = "Safe to 6 Armor Certificate",
+		unidentifiedDisplayName = "+6 Armor Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 6 Armor Certificate",
+		identifiedDisplayName = "+6 Armor Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"Take this certificate, 1 Elunium and an upgradable Headgear to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.",
@@ -39531,10 +39531,10 @@ tbl = {
 		costume = false
 	},
 	[6238] = {
-		unidentifiedDisplayName = "Safe to 10 Weapon Certificate",
+		unidentifiedDisplayName = "+10 Weapon Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 10 Weapon Certificate",
+		identifiedDisplayName = "+10 Weapon Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			",..",
@@ -39546,10 +39546,10 @@ tbl = {
 		costume = false
 	},
 	[6239] = {
-		unidentifiedDisplayName = "Safe to 10 Armor Certificate",
+		unidentifiedDisplayName = "+10 Armor Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 10 Armor Certificate",
+		identifiedDisplayName = "+10 Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			",..",
@@ -40953,10 +40953,10 @@ tbl = {
 		costume = false
 	},
 	[6457] = {
-		unidentifiedDisplayName = "Safe to 5 Armor Certificate",
+		unidentifiedDisplayName = "+5 Armor Refine Deed",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 5 Armor Certificate",
+		identifiedDisplayName = "+5 Armor Refine Deed",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			"A Certificate that will ensure that Mighty Hammer, in Eden Group, will not degrade your Equipment when it is +9 attempting +10.",
