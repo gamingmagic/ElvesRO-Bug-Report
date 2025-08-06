@@ -104705,6 +104705,30 @@ tbl = {
 		ClassNum = 1,
 		costume = false
 	},
+	[19893] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Ordinary Black Magician Hat Kaho's Horn",
+		identifiedResourceName = "평범한블랙매지션햇",
+		identifiedDescriptionName = {
+			"Just an ordinary black magician's hat. For some reason, you feel somewhat extraordinary while wearing it.",
+			"_______________________",
+			"Matk +200",
+			"Increases magical damage to DemiHuman by 1% per refine level.",
+			"Increases Int per refine level.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 912,
+		co
 }
 
 -- Now for a helper function because i hate repetitions 
