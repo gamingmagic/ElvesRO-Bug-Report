@@ -39531,10 +39531,10 @@ tbl = {
 		costume = false
 	},
 	[6238] = {
-		unidentifiedDisplayName = "Safe to 11 Weapon Certificate",
+		unidentifiedDisplayName = "Safe to 10 Weapon Certificate",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 11 Weapon Certificate",
+		identifiedDisplayName = "Safe to 10 Weapon Certificate",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			",..",
@@ -39546,10 +39546,10 @@ tbl = {
 		costume = false
 	},
 	[6239] = {
-		unidentifiedDisplayName = "Safe to 11 Armor Certificate",
+		unidentifiedDisplayName = "Safe to 10 Armor Certificate",
 		unidentifiedResourceName = "ÄíÆù",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Safe to 11 Armor Certificate",
+		identifiedDisplayName = "Safe to 10 Armor Certificate",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
 			",..",
