@@ -104728,7 +104728,8 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 912,
-		co
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
