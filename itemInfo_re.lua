@@ -190841,7 +190841,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "ÀÇ»ó »ç³É²ÛÀÇ ¸¸Âù",
+		identifiedDisplayName = "Hunter's Dinner Kaho's Horn",
 		identifiedResourceName = "Hunters_Dinner",
 		identifiedDescriptionName = {
 			"A dinner prepared for those who made achievements in hunting competitions.",
@@ -262869,7 +262869,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Goddess of Victory(Purple)",
+		identifiedDisplayName = "Goddess of Victory(Purple) Kaho's Horn",
 		identifiedResourceName = "rtc3µîÀü¿ë",
 		identifiedDescriptionName = {
 			"Costume given only to the winner.",
@@ -263170,7 +263170,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Soldier Hat",
+		identifiedDisplayName = "Soldier Hat Kaho's Horn",
 		identifiedResourceName = "º´Á¤¸ðÀÚ",
 		identifiedDescriptionName = {
 			"Cruiser's hat. It somehow gives an urge to march.",
@@ -266715,7 +266715,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Àå½Ä¿ë¾Ë²®Áú",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Egg Shell",
+		identifiedDisplayName = "Egg Shell Kaho's Horn",
 		identifiedResourceName = "Àå½Ä¿ë¾Ë²®Áú",
 		identifiedDescriptionName = {
 			"The decorative surface on the head is quite solid with a shiny surface.",
@@ -266992,7 +266992,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Volume Feather Hat",
+		identifiedDisplayName = "Volume Feather Hat Kaho's Horn",
 		identifiedResourceName = "º¼·ýÆä´õÇÞ",
 		identifiedDescriptionName = {
 			"A small costume hat with a very gorgeous fur.",
@@ -267021,7 +267021,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hairband",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Bragi Wing Ears",
+		identifiedDisplayName = "Bragi Wing Ears Kaho's Horn",
 		identifiedResourceName = "ºê¶ó±âÀÇ³¯°³±Í",
 		identifiedDescriptionName = {
 			"Costume ears benefiting from Idun's husband Bragi.",
@@ -267549,7 +267549,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Water Lily Hat",
+		identifiedDisplayName = "Water Lily Hat Kaho's Horn",
 		identifiedResourceName = "¿¬²É¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A hat made from a Brasilis Water Lily flower.",
@@ -267840,7 +267840,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume White Helm of Abyss",
+		identifiedDisplayName = "White Helm of Abyss Kaho's Horn",
 		identifiedResourceName = "Èò»ö½É¿¬ÀÇ¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A white helmet for costumes, much like the helmet worn by the abyss knight.",
@@ -268168,7 +268168,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇÞ",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Musketeer Hat",
+		identifiedDisplayName = "Musketeer Hat Kaho's Horn",
 		identifiedResourceName = "³ëºíÇÞ",
 		identifiedDescriptionName = {
 			"\"One for all and all for one\" is inscribed on the inside of this extravagant hat.",
@@ -268736,7 +268736,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Sepia Cap",
+		identifiedDisplayName = "Sepia Cap Kaho's Horn",
 		identifiedResourceName = "¼¼ÇÇ¾ÆÄ¸",
 		identifiedDescriptionName = {
 			"Costume with decoration of chocolate biscuit in sepia.",
@@ -269481,7 +269481,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Evil Marching Hat",
+		identifiedDisplayName = "Evil Marching Hat Kaho's Horn",
 		identifiedResourceName = "»ç¾ÇÇÑ¸¶ÄªÇÞ",
 		identifiedDescriptionName = {
 			"A dark marching hat worn by members of an undead band from Niffleheim.",
@@ -270748,7 +270748,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Red Strong Hair",
+		identifiedDisplayName = "Red Strong Hair Kaho's Horn",
 		identifiedResourceName = "°­ÇÑÀÚÀÇÇì¾î»¡°­",
 		identifiedDescriptionName = {
 			"A hair inspired by certain race whose hair changes when they exceed their limits.",
@@ -271667,7 +271667,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇÞ",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Over Protector",
+		identifiedDisplayName = "Over Protector Kaho's Horn",
 		identifiedResourceName = "¿À¹öÇÁ·ÎÅØÅÍ",
 		identifiedDescriptionName = {
 			"Designed to protect the head tightly.",
@@ -271790,7 +271790,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Bijou Hat",
+		identifiedDisplayName = "Bijou Hat Kaho's Horn",
 		identifiedResourceName = "ºñÁê¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A pointy hat modeled after the Bijou, Valkyrie's henchmen.",
@@ -273584,7 +273584,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Special Kafra Hat",
+		identifiedDisplayName = "Special Kafra Hat Kaho's Horn",
 		identifiedResourceName = "¸®¸®¾ÆÀÎÇü¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A limited costume to celebrate RO's 13th anniversary.",
