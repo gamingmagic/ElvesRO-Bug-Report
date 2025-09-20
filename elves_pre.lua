@@ -102953,7 +102953,7 @@ tbl = {
 			"All Stats +7",
 			"MDEF +5",
 			"_______________________",
-			"Prevents ^663399Stun^000000 status.",
+			"Prevents ^663399Curse^000000 status.",
 			"_______________________",
 			"^663399Indestructible in battle^000000",
 			"_______________________",
