@@ -91441,7 +91441,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 940,
-		costume = true
+		costume = false
 	},
 	[5910] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -93526,7 +93526,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1381,
-		costume = true
+		costume = false
 	},
 	[5981] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -190869,7 +190869,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2024,
-		costume = true
+		costume = false
 	},
 	[15858] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -190902,7 +190902,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2087,
-		costume = true
+		costume = false
 	},
 	[15881] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -190930,7 +190930,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2091,
-		costume = true
+		costume = false
 	},
 	[15882] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -190960,7 +190960,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1180,
-		costume = true
+		costume = false
 	},
 	[15889] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -190989,7 +190989,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 808,
-		costume = true
+		costume = false
 	},
 	[16000] = {
 		unidentifiedDisplayName = "Unidentified Mace",
@@ -232348,7 +232348,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 879,
-		costume = true
+		costume = false
 	},
 	[18741] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -232376,7 +232376,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 880,
-		costume = true
+		costume = false
 	},
 	[18742] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -232423,7 +232423,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 882,
-		costume = true
+		costume = false
 	},
 	[18744] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -237333,7 +237333,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 897,
-		costume = true
+		costume = false
 	},
 	[18922] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -240086,7 +240086,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 564,
-		costume = true
+		costume = false
 	},
 	[19018] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -247767,7 +247767,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1221,
-		costume = true
+		costume = false
 	},
 	[19289] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -247815,7 +247815,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 757,
-		costume = true
+		costume = false
 	},
 	[19291] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -247863,7 +247863,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1671,
-		costume = true
+		costume = false
 	},
 	[19293] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -247911,7 +247911,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1668,
-		costume = true
+		costume = false
 	},
 	[19296] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -250598,7 +250598,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1878,
-		costume = true
+		costume = false
 	},
 	[19465] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -250729,7 +250729,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1891,
-		costume = true
+		costume = false
 	},
 	[19474] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -251572,7 +251572,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1,
-		costume = true
+		costume = false
 	},
 	[19503] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -251600,7 +251600,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 51,
-		costume = true
+		costume = false
 	},
 	[19504] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -251666,7 +251666,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 300,
-		costume = true
+		costume = false
 	},
 	[19507] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -251694,7 +251694,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 654,
-		costume = true
+		costume = false
 	},
 	[19508] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -251721,7 +251721,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 0,
-		costume = true
+		costume = false
 	},
 	[19509] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -251863,7 +251863,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 701,
-		costume = true
+		costume = false
 	},
 	[19516] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -251891,7 +251891,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 702,
-		costume = true
+		costume = false
 	},
 	[19517] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -251919,7 +251919,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 703,
-		costume = true
+		costume = false
 	},
 	[19518] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -251947,7 +251947,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 704,
-		costume = true
+		costume = false
 	},
 	[19519] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -251975,7 +251975,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 688,
-		costume = true
+		costume = false
 	},
 	[19520] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -252003,7 +252003,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 705,
-		costume = true
+		costume = false
 	},
 	[19521] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -252031,7 +252031,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 706,
-		costume = true
+		costume = false
 	},
 	[19522] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -252059,7 +252059,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 707,
-		costume = true
+		costume = false
 	},
 	[19523] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -252087,7 +252087,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 244,
-		costume = true
+		costume = false
 	},
 	[19524] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -252115,7 +252115,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 85,
-		costume = true
+		costume = false
 	},
 	[19525] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -252143,7 +252143,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 58,
-		costume = true
+		costume = false
 	},
 	[19526] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -252171,7 +252171,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 40,
-		costume = true
+		costume = false
 	},
 	[19527] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -252199,7 +252199,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 43,
-		costume = true
+		costume = false
 	},
 	[19528] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -252246,7 +252246,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 38,
-		costume = true
+		costume = false
 	},
 	[19530] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252274,7 +252274,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 541,
-		costume = true
+		costume = false
 	},
 	[19531] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -252323,7 +252323,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 640,
-		costume = true
+		costume = false
 	},
 	[19533] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252351,7 +252351,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 114,
-		costume = true
+		costume = false
 	},
 	[19534] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -252374,7 +252374,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 693,
-		costume = true
+		costume = false
 	},
 	[19535] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252402,7 +252402,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 730,
-		costume = true
+		costume = false
 	},
 	[19536] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252430,7 +252430,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 533,
-		costume = true
+		costume = false
 	},
 	[19537] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252458,7 +252458,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 591,
-		costume = true
+		costume = false
 	},
 	[19538] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252489,7 +252489,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 780,
-		costume = true
+		costume = false
 	},
 	[19539] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252602,7 +252602,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 849,
-		costume = true
+		costume = false
 	},
 	[19544] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252630,7 +252630,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 692,
-		costume = true
+		costume = false
 	},
 	[19545] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252658,7 +252658,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 102,
-		costume = true
+		costume = false
 	},
 	[19546] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -252686,7 +252686,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 225,
-		costume = true
+		costume = false
 	},
 	[19547] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252714,7 +252714,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 123,
-		costume = true
+		costume = false
 	},
 	[19548] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252742,7 +252742,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 448,
-		costume = true
+		costume = false
 	},
 	[19549] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -252770,7 +252770,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 41,
-		costume = true
+		costume = false
 	},
 	[19550] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -252898,7 +252898,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 213,
-		costume = true
+		costume = false
 	},
 	[19556] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -252926,7 +252926,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 214,
-		costume = true
+		costume = false
 	},
 	[19557] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252954,7 +252954,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 334,
-		costume = true
+		costume = false
 	},
 	[19558] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -252982,7 +252982,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 524,
-		costume = true
+		costume = false
 	},
 	[19559] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253010,7 +253010,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 525,
-		costume = true
+		costume = false
 	},
 	[19560] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253038,7 +253038,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 527,
-		costume = true
+		costume = false
 	},
 	[19561] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253066,7 +253066,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 528,
-		costume = true
+		costume = false
 	},
 	[19562] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253094,7 +253094,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 530,
-		costume = true
+		costume = false
 	},
 	[19563] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -253122,7 +253122,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 545,
-		costume = true
+		costume = false
 	},
 	[19564] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -253152,7 +253152,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 546,
-		costume = true
+		costume = false
 	},
 	[19565] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253182,7 +253182,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 583,
-		costume = true
+		costume = false
 	},
 	[19566] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -253231,7 +253231,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 676,
-		costume = true
+		costume = false
 	},
 	[19568] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -253261,7 +253261,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 757,
-		costume = true
+		costume = false
 	},
 	[19569] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253289,7 +253289,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 758,
-		costume = true
+		costume = false
 	},
 	[19570] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -253319,7 +253319,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 759,
-		costume = true
+		costume = false
 	},
 	[19571] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253347,7 +253347,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 770,
-		costume = true
+		costume = false
 	},
 	[19572] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253375,7 +253375,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 771,
-		costume = true
+		costume = false
 	},
 	[19573] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -253403,7 +253403,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 733,
-		costume = true
+		costume = false
 	},
 	[19574] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -253431,7 +253431,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 742,
-		costume = true
+		costume = false
 	},
 	[19575] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -253459,7 +253459,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 863,
-		costume = true
+		costume = false
 	},
 	[19576] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -253487,7 +253487,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 817,
-		costume = true
+		costume = false
 	},
 	[19577] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253515,7 +253515,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 874,
-		costume = true
+		costume = false
 	},
 	[19578] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -253545,7 +253545,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1,
-		costume = true
+		costume = false
 	},
 	[19579] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253573,7 +253573,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 613,
-		costume = true
+		costume = false
 	},
 	[19580] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -253601,7 +253601,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 137,
-		costume = true
+		costume = false
 	},
 	[19581] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253629,7 +253629,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 891,
-		costume = true
+		costume = false
 	},
 	[19582] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253657,7 +253657,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 411,
-		costume = true
+		costume = false
 	},
 	[19583] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -253676,7 +253676,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 50,
-		costume = true
+		costume = false
 	},
 	[19584] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -253704,7 +253704,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 327,
-		costume = true
+		costume = false
 	},
 	[19585] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253732,7 +253732,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 224,
-		costume = true
+		costume = false
 	},
 	[19586] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -253760,7 +253760,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 898,
-		costume = true
+		costume = false
 	},
 	[19587] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253788,7 +253788,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 905,
-		costume = true
+		costume = false
 	},
 	[19588] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253817,7 +253817,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 182,
-		costume = true
+		costume = false
 	},
 	[19589] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -253846,7 +253846,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 907,
-		costume = true
+		costume = false
 	},
 	[19590] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -253874,7 +253874,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 239,
-		costume = true
+		costume = false
 	},
 	[19591] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -253902,7 +253902,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 246,
-		costume = true
+		costume = false
 	},
 	[19592] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253930,7 +253930,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 210,
-		costume = true
+		costume = false
 	},
 	[19593] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253958,7 +253958,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 237,
-		costume = true
+		costume = false
 	},
 	[19594] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -253986,7 +253986,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 238,
-		costume = true
+		costume = false
 	},
 	[19595] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254014,7 +254014,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 265,
-		costume = true
+		costume = false
 	},
 	[19596] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -254042,7 +254042,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 264,
-		costume = true
+		costume = false
 	},
 	[19597] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254070,7 +254070,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 209,
-		costume = true
+		costume = false
 	},
 	[19599] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254098,7 +254098,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 589,
-		costume = true
+		costume = false
 	},
 	[19600] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254128,7 +254128,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 909,
-		costume = true
+		costume = false
 	},
 	[19601] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254158,7 +254158,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 910,
-		costume = true
+		costume = false
 	},
 	[19602] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254186,7 +254186,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 0,
-		costume = true
+		costume = false
 	},
 	[19603] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -254431,7 +254431,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 300,
-		costume = true
+		costume = false
 	},
 	[19614] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254459,7 +254459,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 193,
-		costume = true
+		costume = false
 	},
 	[19615] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -254506,7 +254506,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 368,
-		costume = true
+		costume = false
 	},
 	[19617] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -254534,7 +254534,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 199,
-		costume = true
+		costume = false
 	},
 	[19618] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -254562,7 +254562,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 153,
-		costume = true
+		costume = false
 	},
 	[19620] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254589,7 +254589,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 189,
-		costume = true
+		costume = false
 	},
 	[19621] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -254636,7 +254636,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 132,
-		costume = true
+		costume = false
 	},
 	[19623] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254665,7 +254665,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 477,
-		costume = true
+		costume = false
 	},
 	[19624] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -254713,7 +254713,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 15,
-		costume = true
+		costume = false
 	},
 	[19626] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254741,7 +254741,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 287,
-		costume = true
+		costume = false
 	},
 	[19627] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -254769,7 +254769,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 266,
-		costume = true
+		costume = false
 	},
 	[19628] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -254797,7 +254797,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 97,
-		costume = true
+		costume = false
 	},
 	[19629] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -254825,7 +254825,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 19,
-		costume = true
+		costume = false
 	},
 	[19630] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -254853,7 +254853,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 45,
-		costume = true
+		costume = false
 	},
 	[19631] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254880,7 +254880,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 919,
-		costume = true
+		costume = false
 	},
 	[19632] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -254908,7 +254908,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 16,
-		costume = true
+		costume = false
 	},
 	[19633] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -254936,7 +254936,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 5,
-		costume = true
+		costume = false
 	},
 	[19634] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -254983,7 +254983,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 46,
-		costume = true
+		costume = false
 	},
 	[19636] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -255030,7 +255030,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 64,
-		costume = true
+		costume = false
 	},
 	[19638] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -255078,7 +255078,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 67,
-		costume = true
+		costume = false
 	},
 	[19640] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255106,7 +255106,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 211,
-		costume = true
+		costume = false
 	},
 	[19641] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255134,7 +255134,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 233,
-		costume = true
+		costume = false
 	},
 	[19642] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255162,7 +255162,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 268,
-		costume = true
+		costume = false
 	},
 	[19643] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255191,7 +255191,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 368,
-		costume = true
+		costume = false
 	},
 	[19644] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -255239,7 +255239,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 221,
-		costume = true
+		costume = false
 	},
 	[19646] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255284,7 +255284,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 271,
-		costume = true
+		costume = false
 	},
 	[19648] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255312,7 +255312,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 241,
-		costume = true
+		costume = false
 	},
 	[19649] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255340,7 +255340,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 926,
-		costume = true
+		costume = false
 	},
 	[19650] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -255368,7 +255368,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 934,
-		costume = true
+		costume = false
 	},
 	[19651] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -255419,7 +255419,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 497,
-		costume = true
+		costume = false
 	},
 	[19653] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255447,7 +255447,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 269,
-		costume = true
+		costume = false
 	},
 	[19654] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255475,7 +255475,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 367,
-		costume = true
+		costume = false
 	},
 	[19655] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255503,7 +255503,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 398,
-		costume = true
+		costume = false
 	},
 	[19656] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255531,7 +255531,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 240,
-		costume = true
+		costume = false
 	},
 	[19657] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255559,7 +255559,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 236,
-		costume = true
+		costume = false
 	},
 	[19658] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255587,7 +255587,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 315,
-		costume = true
+		costume = false
 	},
 	[19659] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255615,7 +255615,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 279,
-		costume = true
+		costume = false
 	},
 	[19660] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255671,7 +255671,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 938,
-		costume = true
+		costume = false
 	},
 	[19662] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255700,7 +255700,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 130,
-		costume = true
+		costume = false
 	},
 	[19663] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255728,7 +255728,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 947,
-		costume = true
+		costume = false
 	},
 	[19664] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -255756,7 +255756,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 721,
-		costume = true
+		costume = false
 	},
 	[19665] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255785,7 +255785,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 417,
-		costume = true
+		costume = false
 	},
 	[19666] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255813,7 +255813,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 217,
-		costume = true
+		costume = false
 	},
 	[19668] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255842,7 +255842,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 463,
-		costume = true
+		costume = false
 	},
 	[19669] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -255888,7 +255888,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 601,
-		costume = true
+		costume = false
 	},
 	[19671] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -255915,7 +255915,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 603,
-		costume = true
+		costume = false
 	},
 	[19672] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -255959,7 +255959,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 716,
-		costume = true
+		costume = false
 	},
 	[19674] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -256006,7 +256006,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 349,
-		costume = true
+		costume = false
 	},
 	[19677] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -256034,7 +256034,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 301,
-		costume = true
+		costume = false
 	},
 	[19678] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -256062,7 +256062,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 388,
-		costume = true
+		costume = false
 	},
 	[19679] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -256128,7 +256128,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 218,
-		costume = true
+		costume = false
 	},
 	[19682] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256156,7 +256156,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 387,
-		costume = true
+		costume = false
 	},
 	[19683] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -256203,7 +256203,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 305,
-		costume = true
+		costume = false
 	},
 	[19685] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256231,7 +256231,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 961,
-		costume = true
+		costume = false
 	},
 	[19686] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -256261,7 +256261,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 964,
-		costume = true
+		costume = false
 	},
 	[19687] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -256289,7 +256289,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 963,
-		costume = true
+		costume = false
 	},
 	[19688] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256317,7 +256317,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 533,
-		costume = true
+		costume = false
 	},
 	[19689] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256345,7 +256345,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 303,
-		costume = true
+		costume = false
 	},
 	[19690] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256373,7 +256373,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 372,
-		costume = true
+		costume = false
 	},
 	[19691] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -256401,7 +256401,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 407,
-		costume = true
+		costume = false
 	},
 	[19692] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -256449,7 +256449,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 299,
-		costume = true
+		costume = false
 	},
 	[19694] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256477,7 +256477,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 313,
-		costume = true
+		costume = false
 	},
 	[19695] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256505,7 +256505,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 318,
-		costume = true
+		costume = false
 	},
 	[19696] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256532,7 +256532,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 965,
-		costume = true
+		costume = false
 	},
 	[19697] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256560,7 +256560,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 619,
-		costume = true
+		costume = false
 	},
 	[19698] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256587,7 +256587,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 352,
-		costume = true
+		costume = false
 	},
 	[19699] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256614,7 +256614,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 360,
-		costume = true
+		costume = false
 	},
 	[19700] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -256631,7 +256631,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 903,
-		costume = true
+		costume = false
 	},
 	[19701] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256660,7 +256660,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 190,
-		costume = true
+		costume = false
 	},
 	[19702] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256688,7 +256688,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 390,
-		costume = true
+		costume = false
 	},
 	[19703] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -256716,7 +256716,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 969,
-		costume = true
+		costume = false
 	},
 	[19704] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -256744,7 +256744,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 970,
-		costume = true
+		costume = false
 	},
 	[19705] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -256772,7 +256772,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 971,
-		costume = true
+		costume = false
 	},
 	[19706] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256800,7 +256800,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 670,
-		costume = true
+		costume = false
 	},
 	[19707] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256829,7 +256829,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 966,
-		costume = true
+		costume = false
 	},
 	[19708] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -256857,7 +256857,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 413,
-		costume = true
+		costume = false
 	},
 	[19709] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -256885,7 +256885,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 310,
-		costume = true
+		costume = false
 	},
 	[19710] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -256913,7 +256913,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 365,
-		costume = true
+		costume = false
 	},
 	[19711] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -256941,7 +256941,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 106,
-		costume = true
+		costume = false
 	},
 	[19712] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -256969,7 +256969,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 344,
-		costume = true
+		costume = false
 	},
 	[19713] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -257017,7 +257017,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 520,
-		costume = true
+		costume = false
 	},
 	[19715] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -257045,7 +257045,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 343,
-		costume = true
+		costume = false
 	},
 	[19716] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257073,7 +257073,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 208,
-		costume = true
+		costume = false
 	},
 	[19717] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -257101,7 +257101,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 245,
-		costume = true
+		costume = false
 	},
 	[19718] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -257128,7 +257128,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 978,
-		costume = true
+		costume = false
 	},
 	[19719] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -257155,7 +257155,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 33,
-		costume = true
+		costume = false
 	},
 	[19720] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257182,7 +257182,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 31,
-		costume = true
+		costume = false
 	},
 	[19721] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -257210,7 +257210,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 586,
-		costume = true
+		costume = false
 	},
 	[19722] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -257257,7 +257257,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 431,
-		costume = true
+		costume = false
 	},
 	[19724] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257285,7 +257285,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 354,
-		costume = true
+		costume = false
 	},
 	[19725] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257351,7 +257351,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 298,
-		costume = true
+		costume = false
 	},
 	[19728] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257378,7 +257378,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 985,
-		costume = true
+		costume = false
 	},
 	[19729] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257406,7 +257406,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 392,
-		costume = true
+		costume = false
 	},
 	[19730] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -257509,7 +257509,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 115,
-		costume = true
+		costume = false
 	},
 	[19734] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -257594,7 +257594,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 105,
-		costume = true
+		costume = false
 	},
 	[19738] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257622,7 +257622,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 189,
-		costume = true
+		costume = false
 	},
 	[19739] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257650,7 +257650,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 838,
-		costume = true
+		costume = false
 	},
 	[19740] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257678,7 +257678,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 350,
-		costume = true
+		costume = false
 	},
 	[19741] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -257706,7 +257706,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 562,
-		costume = true
+		costume = false
 	},
 	[19742] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -257755,7 +257755,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 485,
-		costume = true
+		costume = false
 	},
 	[19744] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -257783,7 +257783,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 642,
-		costume = true
+		costume = false
 	},
 	[19745] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257811,7 +257811,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 587,
-		costume = true
+		costume = false
 	},
 	[19746] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -257839,7 +257839,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 326,
-		costume = true
+		costume = false
 	},
 	[19747] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -257886,7 +257886,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 335,
-		costume = true
+		costume = false
 	},
 	[19749] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -257914,7 +257914,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 260,
-		costume = true
+		costume = false
 	},
 	[19750] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -257942,7 +257942,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 987,
-		costume = true
+		costume = false
 	},
 	[19751] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -257970,7 +257970,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 988,
-		costume = true
+		costume = false
 	},
 	[19752] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -258016,7 +258016,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 462,
-		costume = true
+		costume = false
 	},
 	[19754] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -258082,7 +258082,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 610,
-		costume = true
+		costume = false
 	},
 	[19757] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258110,7 +258110,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 312,
-		costume = true
+		costume = false
 	},
 	[19758] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258138,7 +258138,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 522,
-		costume = true
+		costume = false
 	},
 	[19759] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258166,7 +258166,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 338,
-		costume = true
+		costume = false
 	},
 	[19760] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258193,7 +258193,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 992,
-		costume = true
+		costume = false
 	},
 	[19761] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -258221,7 +258221,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 993,
-		costume = true
+		costume = false
 	},
 	[19762] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258248,7 +258248,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 994,
-		costume = true
+		costume = false
 	},
 	[19763] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258275,7 +258275,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 539,
-		costume = true
+		costume = false
 	},
 	[19764] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -258336,7 +258336,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 997,
-		costume = true
+		costume = false
 	},
 	[19767] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258364,7 +258364,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 602,
-		costume = true
+		costume = false
 	},
 	[19768] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -258392,7 +258392,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 645,
-		costume = true
+		costume = false
 	},
 	[19769] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -258455,7 +258455,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 723,
-		costume = true
+		costume = false
 	},
 	[19772] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258484,7 +258484,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 709,
-		costume = true
+		costume = false
 	},
 	[19773] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -258512,7 +258512,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 222,
-		costume = true
+		costume = false
 	},
 	[19774] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -258540,7 +258540,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 261,
-		costume = true
+		costume = false
 	},
 	[19775] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258559,7 +258559,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 307,
-		costume = true
+		costume = false
 	},
 	[19776] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -258607,7 +258607,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1005,
-		costume = true
+		costume = false
 	},
 	[19778] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258635,7 +258635,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 968,
-		costume = true
+		costume = false
 	},
 	[19779] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258663,7 +258663,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 659,
-		costume = true
+		costume = false
 	},
 	[19780] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258692,7 +258692,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 867,
-		costume = true
+		costume = false
 	},
 	[19781] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -258739,7 +258739,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 142,
-		costume = true
+		costume = false
 	},
 	[19783] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -258786,7 +258786,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 257,
-		costume = true
+		costume = false
 	},
 	[19785] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -258834,7 +258834,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 165,
-		costume = true
+		costume = false
 	},
 	[19787] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -258900,7 +258900,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 29,
-		costume = true
+		costume = false
 	},
 	[19790] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -258928,7 +258928,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 44,
-		costume = true
+		costume = false
 	},
 	[19791] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -259032,7 +259032,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 93,
-		costume = true
+		costume = false
 	},
 	[19796] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -259060,7 +259060,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 103,
-		costume = true
+		costume = false
 	},
 	[19797] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -259088,7 +259088,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 72,
-		costume = true
+		costume = false
 	},
 	[19798] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -259135,7 +259135,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 30,
-		costume = true
+		costume = false
 	},
 	[19800] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -259163,7 +259163,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 878,
-		costume = true
+		costume = false
 	},
 	[19801] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -259210,7 +259210,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 296,
-		costume = true
+		costume = false
 	},
 	[19803] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259238,7 +259238,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 456,
-		costume = true
+		costume = false
 	},
 	[19804] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259266,7 +259266,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1044,
-		costume = true
+		costume = false
 	},
 	[19805] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -259308,7 +259308,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1046,
-		costume = true
+		costume = false
 	},
 	[19807] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -259336,7 +259336,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1047,
-		costume = true
+		costume = false
 	},
 	[19808] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259364,7 +259364,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 654,
-		costume = true
+		costume = false
 	},
 	[19809] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259392,7 +259392,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 411,
-		costume = true
+		costume = false
 	},
 	[19810] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -259440,7 +259440,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 418,
-		costume = true
+		costume = false
 	},
 	[19812] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -259468,7 +259468,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 333,
-		costume = true
+		costume = false
 	},
 	[19813] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259496,7 +259496,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 488,
-		costume = true
+		costume = false
 	},
 	[19814] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259524,7 +259524,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 306,
-		costume = true
+		costume = false
 	},
 	[19815] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259553,7 +259553,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1048,
-		costume = true
+		costume = false
 	},
 	[19816] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259582,7 +259582,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1049,
-		costume = true
+		costume = false
 	},
 	[19817] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -259629,7 +259629,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 600,
-		costume = true
+		costume = false
 	},
 	[19819] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259657,7 +259657,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 491,
-		costume = true
+		costume = false
 	},
 	[19820] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259685,7 +259685,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 491,
-		costume = true
+		costume = false
 	},
 	[19821] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259713,7 +259713,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 375,
-		costume = true
+		costume = false
 	},
 	[19822] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259741,7 +259741,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 309,
-		costume = true
+		costume = false
 	},
 	[19823] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259769,7 +259769,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1052,
-		costume = true
+		costume = false
 	},
 	[19824] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259797,7 +259797,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1053,
-		costume = true
+		costume = false
 	},
 	[19825] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259825,7 +259825,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1054,
-		costume = true
+		costume = false
 	},
 	[19826] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -259872,7 +259872,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 643,
-		costume = true
+		costume = false
 	},
 	[19828] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259900,7 +259900,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 195,
-		costume = true
+		costume = false
 	},
 	[19829] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -259928,7 +259928,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 146,
-		costume = true
+		costume = false
 	},
 	[19830] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -259975,7 +259975,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 408,
-		costume = true
+		costume = false
 	},
 	[19832] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260003,7 +260003,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 120,
-		costume = true
+		costume = false
 	},
 	[19833] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -260031,7 +260031,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 34,
-		costume = true
+		costume = false
 	},
 	[19834] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260059,7 +260059,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 216,
-		costume = true
+		costume = false
 	},
 	[19835] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260088,7 +260088,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 297,
-		costume = true
+		costume = false
 	},
 	[19836] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -260116,7 +260116,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 380,
-		costume = true
+		costume = false
 	},
 	[19837] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260145,7 +260145,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 492,
-		costume = true
+		costume = false
 	},
 	[19838] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260192,7 +260192,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 317,
-		costume = true
+		costume = false
 	},
 	[19840] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -260220,7 +260220,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 138,
-		costume = true
+		costume = false
 	},
 	[19841] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260248,7 +260248,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 454,
-		costume = true
+		costume = false
 	},
 	[19842] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260276,7 +260276,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 234,
-		costume = true
+		costume = false
 	},
 	[19843] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -260304,7 +260304,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2,
-		costume = true
+		costume = false
 	},
 	[19844] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260332,7 +260332,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 7,
-		costume = true
+		costume = false
 	},
 	[19845] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260360,7 +260360,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 127,
-		costume = true
+		costume = false
 	},
 	[19846] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -260407,7 +260407,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 28,
-		costume = true
+		costume = false
 	},
 	[19848] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260435,7 +260435,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 204,
-		costume = true
+		costume = false
 	},
 	[19849] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260463,7 +260463,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 51,
-		costume = true
+		costume = false
 	},
 	[19850] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260491,7 +260491,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 139,
-		costume = true
+		costume = false
 	},
 	[19851] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260519,7 +260519,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 143,
-		costume = true
+		costume = false
 	},
 	[19852] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260547,7 +260547,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 192,
-		costume = true
+		costume = false
 	},
 	[19853] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -260596,7 +260596,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 141,
-		costume = true
+		costume = false
 	},
 	[19855] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260624,7 +260624,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1059,
-		costume = true
+		costume = false
 	},
 	[19856] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260652,7 +260652,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1080,
-		costume = true
+		costume = false
 	},
 	[19857] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -260682,7 +260682,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 728,
-		costume = true
+		costume = false
 	},
 	[19858] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -260710,7 +260710,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 148,
-		costume = true
+		costume = false
 	},
 	[19859] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260739,7 +260739,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 264,
-		costume = true
+		costume = false
 	},
 	[19860] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260767,7 +260767,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 872,
-		costume = true
+		costume = false
 	},
 	[19861] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -260796,7 +260796,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 126,
-		costume = true
+		costume = false
 	},
 	[19862] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -260824,7 +260824,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 150,
-		costume = true
+		costume = false
 	},
 	[19863] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -260852,7 +260852,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 156,
-		costume = true
+		costume = false
 	},
 	[19864] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260880,7 +260880,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 302,
-		costume = true
+		costume = false
 	},
 	[19865] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260908,7 +260908,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 89,
-		costume = true
+		costume = false
 	},
 	[19866] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260936,7 +260936,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 501,
-		costume = true
+		costume = false
 	},
 	[19867] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260964,7 +260964,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 502,
-		costume = true
+		costume = false
 	},
 	[19868] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -260992,7 +260992,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 830,
-		costume = true
+		costume = false
 	},
 	[19869] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261020,7 +261020,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 846,
-		costume = true
+		costume = false
 	},
 	[19870] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261048,7 +261048,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 923,
-		costume = true
+		costume = false
 	},
 	[19871] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -261115,7 +261115,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 505,
-		costume = true
+		costume = false
 	},
 	[19874] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -261144,7 +261144,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 506,
-		costume = true
+		costume = false
 	},
 	[19875] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261172,7 +261172,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 549,
-		costume = true
+		costume = false
 	},
 	[19876] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261200,7 +261200,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 384,
-		costume = true
+		costume = false
 	},
 	[19877] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -261247,7 +261247,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 249,
-		costume = true
+		costume = false
 	},
 	[19879] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -261277,7 +261277,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 267,
-		costume = true
+		costume = false
 	},
 	[19880] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261305,7 +261305,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 232,
-		costume = true
+		costume = false
 	},
 	[19881] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261333,7 +261333,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1085,
-		costume = true
+		costume = false
 	},
 	[19882] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261380,7 +261380,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1087,
-		costume = true
+		costume = false
 	},
 	[19884] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -261409,7 +261409,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 804,
-		costume = true
+		costume = false
 	},
 	[19885] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -261533,7 +261533,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 112,
-		costume = true
+		costume = false
 	},
 	[19891] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261561,7 +261561,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 373,
-		costume = true
+		costume = false
 	},
 	[19892] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261589,7 +261589,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 913,
-		costume = true
+		costume = false
 	},
 	[19893] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261617,7 +261617,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 912,
-		costume = true
+		costume = false
 	},
 	[19894] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -261645,7 +261645,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 908,
-		costume = true
+		costume = false
 	},
 	[19895] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -262241,7 +262241,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 691,
-		costume = true
+		costume = false
 	},
 	[19918] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -262722,7 +262722,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1078,
-		costume = true
+		costume = false
 	},
 	[19938] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -262891,7 +262891,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 579,
-		costume = true
+		costume = false
 	},
 	[19945] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -263192,7 +263192,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 420,
-		costume = true
+		costume = false
 	},
 	[19957] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -264261,7 +264261,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1176,
-		costume = true
+		costume = false
 	},
 	[19996] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -264289,7 +264289,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1189,
-		costume = true
+		costume = false
 	},
 	[19997] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -264317,7 +264317,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1191,
-		costume = true
+		costume = false
 	},
 	[19998] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -264542,7 +264542,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 322,
-		costume = true
+		costume = false
 	},
 	[20008] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -264570,7 +264570,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 729,
-		costume = true
+		costume = false
 	},
 	[20009] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -264598,7 +264598,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 319,
-		costume = true
+		costume = false
 	},
 	[20010] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -264647,7 +264647,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1199,
-		costume = true
+		costume = false
 	},
 	[20012] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -264834,7 +264834,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1208,
-		costume = true
+		costume = false
 	},
 	[20019] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -264862,7 +264862,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1209,
-		costume = true
+		costume = false
 	},
 	[20020] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -265238,7 +265238,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1217,
-		costume = true
+		costume = false
 	},
 	[20034] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -265306,7 +265306,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 981,
-		costume = true
+		costume = false
 	},
 	[20037] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -265334,7 +265334,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 982,
-		costume = true
+		costume = false
 	},
 	[20038] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -265361,7 +265361,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1207,
-		costume = true
+		costume = false
 	},
 	[20039] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -265409,7 +265409,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 583,
-		costume = true
+		costume = false
 	},
 	[20041] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -265437,7 +265437,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 864,
-		costume = true
+		costume = false
 	},
 	[20042] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -265466,7 +265466,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 478,
-		costume = true
+		costume = false
 	},
 	[20043] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -265514,7 +265514,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 329,
-		costume = true
+		costume = false
 	},
 	[20045] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -265542,7 +265542,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 508,
-		costume = true
+		costume = false
 	},
 	[20046] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -265600,7 +265600,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1223,
-		costume = true
+		costume = false
 	},
 	[20048] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -265629,7 +265629,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1224,
-		costume = true
+		costume = false
 	},
 	[20049] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -265657,7 +265657,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 147,
-		costume = true
+		costume = false
 	},
 	[20050] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -265685,7 +265685,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 98,
-		costume = true
+		costume = false
 	},
 	[20051] = {
 		unidentifiedDisplayName = "Stop Post",
@@ -265714,7 +265714,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 59,
-		costume = true
+		costume = false
 	},
 	[20052] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -265742,7 +265742,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 471,
-		costume = true
+		costume = false
 	},
 	[20053] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -266137,7 +266137,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 719,
-		costume = true
+		costume = false
 	},
 	[20068] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -266166,7 +266166,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 718,
-		costume = true
+		costume = false
 	},
 	[20069] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -266195,7 +266195,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1233,
-		costume = true
+		costume = false
 	},
 	[20070] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -266508,7 +266508,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1243,
-		costume = true
+		costume = false
 	},
 	[20083] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -266565,7 +266565,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 325,
-		costume = true
+		costume = false
 	},
 	[20085] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -266738,7 +266738,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 101,
-		costume = true
+		costume = false
 	},
 	[20091] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -266986,7 +266986,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1239,
-		costume = true
+		costume = false
 	},
 	[20100] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -267015,7 +267015,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1240,
-		costume = true
+		costume = false
 	},
 	[20101] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -267044,7 +267044,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1241,
-		costume = true
+		costume = false
 	},
 	[20102] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -267362,7 +267362,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1253,
-		costume = true
+		costume = false
 	},
 	[20114] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -267571,7 +267571,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 324,
-		costume = true
+		costume = false
 	},
 	[20122] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -267765,7 +267765,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 361,
-		costume = true
+		costume = false
 	},
 	[20131] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -267863,7 +267863,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1269,
-		costume = true
+		costume = false
 	},
 	[20135] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -267892,7 +267892,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1117,
-		costume = true
+		costume = false
 	},
 	[20136] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -268190,7 +268190,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 466,
-		costume = true
+		costume = false
 	},
 	[20149] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -268355,7 +268355,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1276,
-		costume = true
+		costume = false
 	},
 	[20156] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -268487,7 +268487,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 373,
-		costume = true
+		costume = false
 	},
 	[20161] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -268759,7 +268759,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1280,
-		costume = true
+		costume = false
 	},
 	[20172] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -269455,7 +269455,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1294,
-		costume = true
+		costume = false
 	},
 	[20198] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -269504,7 +269504,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 687,
-		costume = true
+		costume = false
 	},
 	[20200] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -269533,7 +269533,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1095,
-		costume = true
+		costume = false
 	},
 	[20201] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -269899,7 +269899,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 890,
-		costume = true
+		costume = false
 	},
 	[20217] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -269928,7 +269928,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1300,
-		costume = true
+		costume = false
 	},
 	[20218] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -269957,7 +269957,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1301,
-		costume = true
+		costume = false
 	},
 	[20219] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -269986,7 +269986,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1302,
-		costume = true
+		costume = false
 	},
 	[20220] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -270063,7 +270063,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 395,
-		costume = true
+		costume = false
 	},
 	[20223] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -270383,7 +270383,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1311,
-		costume = true
+		costume = false
 	},
 	[20235] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -270432,7 +270432,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 341,
-		costume = true
+		costume = false
 	},
 	[20237] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -270619,7 +270619,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1314,
-		costume = true
+		costume = false
 	},
 	[20244] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -270713,7 +270713,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1310,
-		costume = true
+		costume = false
 	},
 	[20248] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -270770,7 +270770,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1316,
-		costume = true
+		costume = false
 	},
 	[20250] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -271689,7 +271689,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1329,
-		costume = true
+		costume = false
 	},
 	[20284] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -271812,7 +271812,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1334,
-		costume = true
+		costume = false
 	},
 	[20289] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -271859,7 +271859,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1337,
-		costume = true
+		costume = false
 	},
 	[20291] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -271984,7 +271984,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 391,
-		costume = true
+		costume = false
 	},
 	[20297] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -272397,7 +272397,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1352,
-		costume = true
+		costume = false
 	},
 	[20317] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -272737,7 +272737,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 151,
-		costume = true
+		costume = false
 	},
 	[20331] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -273110,7 +273110,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 726,
-		costume = true
+		costume = false
 	},
 	[20348] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -273606,7 +273606,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 581,
-		costume = true
+		costume = false
 	},
 	[20372] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -273689,7 +273689,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1069,
-		costume = true
+		costume = false
 	},
 	[20375] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -273716,7 +273716,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 803,
-		costume = true
+		costume = false
 	},
 	[20376] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -273760,7 +273760,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 820,
-		costume = true
+		costume = false
 	},
 	[20378] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -273787,7 +273787,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 868,
-		costume = true
+		costume = false
 	},
 	[20379] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -273832,7 +273832,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1405,
-		costume = true
+		costume = false
 	},
 	[20381] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -274029,7 +274029,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 228,
-		costume = true
+		costume = false
 	},
 	[20389] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -274264,7 +274264,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1285,
-		costume = true
+		costume = false
 	},
 	[20399] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -274328,7 +274328,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1188,
-		costume = true
+		costume = false
 	},
 	[20402] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -274356,7 +274356,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 895,
-		costume = true
+		costume = false
 	},
 	[20403] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -274384,7 +274384,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 547,
-		costume = true
+		costume = false
 	},
 	[20404] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -274488,7 +274488,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1419,
-		costume = true
+		costume = false
 	},
 	[20409] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -274544,7 +274544,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 401,
-		costume = true
+		costume = false
 	},
 	[20411] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -275112,7 +275112,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1203,
-		costume = true
+		costume = false
 	},
 	[20436] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -276522,7 +276522,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1476,
-		costume = true
+		costume = false
 	},
 	[20491] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -276551,7 +276551,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1424,
-		costume = true
+		costume = false
 	},
 	[20492] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -379441,7 +379441,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1279,
-		costume = true
+		costume = false
 	},
 	[31041] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -380792,7 +380792,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1421,
-		costume = true
+		costume = false
 	},
 	[31089] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -381052,7 +381052,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1535,
-		costume = true
+		costume = false
 	},
 	[31099] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381080,7 +381080,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1536,
-		costume = true
+		costume = false
 	},
 	[31100] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381108,7 +381108,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1537,
-		costume = true
+		costume = false
 	},
 	[31101] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381136,7 +381136,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1538,
-		costume = true
+		costume = false
 	},
 	[31102] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381164,7 +381164,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1539,
-		costume = true
+		costume = false
 	},
 	[31103] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381192,7 +381192,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1540,
-		costume = true
+		costume = false
 	},
 	[31104] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381220,7 +381220,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 722,
-		costume = true
+		costume = false
 	},
 	[31105] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381499,7 +381499,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1360,
-		costume = true
+		costume = false
 	},
 	[31126] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -381586,7 +381586,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 223,
-		costume = true
+		costume = false
 	},
 	[31129] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -382041,7 +382041,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1249,
-		costume = true
+		costume = false
 	},
 	[31146] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -382146,7 +382146,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1563,
-		costume = true
+		costume = false
 	},
 	[31150] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -382204,7 +382204,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1565,
-		costume = true
+		costume = false
 	},
 	[31152] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -382385,7 +382385,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1361,
-		costume = true
+		costume = false
 	},
 	[31161] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -382875,7 +382875,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1580,
-		costume = true
+		costume = false
 	},
 	[31180] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -383151,7 +383151,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1586,
-		costume = true
+		costume = false
 	},
 	[31191] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -383265,7 +383265,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 270,
-		costume = true
+		costume = false
 	},
 	[31195] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -383457,7 +383457,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1600,
-		costume = true
+		costume = false
 	},
 	[31202] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -383485,7 +383485,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1601,
-		costume = true
+		costume = false
 	},
 	[31203] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -384506,7 +384506,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1635,
-		costume = true
+		costume = false
 	},
 	[31250] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -384572,7 +384572,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1638,
-		costume = true
+		costume = false
 	},
 	[31253] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -384601,7 +384601,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 548,
-		costume = true
+		costume = false
 	},
 	[31254] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -384631,7 +384631,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1631,
-		costume = true
+		costume = false
 	},
 	[31255] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -384659,7 +384659,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1374,
-		costume = true
+		costume = false
 	},
 	[31256] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -384707,7 +384707,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1633,
-		costume = true
+		costume = false
 	},
 	[31260] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -385515,7 +385515,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 140,
-		costume = true
+		costume = false
 	},
 	[31298] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -385772,7 +385772,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1470,
-		costume = true
+		costume = false
 	},
 	[31310] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -385891,7 +385891,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1663,
-		costume = true
+		costume = false
 	},
 	[31315] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -386256,7 +386256,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1673,
-		costume = true
+		costume = false
 	},
 	[31330] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -386361,7 +386361,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1677,
-		costume = true
+		costume = false
 	},
 	[31369] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -386812,7 +386812,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1687,
-		costume = true
+		costume = false
 	},
 	[31388] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -386944,7 +386944,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 347,
-		costume = true
+		costume = false
 	},
 	[31393] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -387070,7 +387070,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1553,
-		costume = true
+		costume = false
 	},
 	[31398] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -387285,7 +387285,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1702,
-		costume = true
+		costume = false
 	},
 	[31407] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -387371,7 +387371,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1498,
-		costume = true
+		costume = false
 	},
 	[31410] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -387399,7 +387399,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1678,
-		costume = true
+		costume = false
 	},
 	[31411] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -387773,7 +387773,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1073,
-		costume = true
+		costume = false
 	},
 	[31434] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -388038,7 +388038,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 913,
-		costume = true
+		costume = false
 	},
 	[31448] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -388066,7 +388066,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1457,
-		costume = true
+		costume = false
 	},
 	[31449] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -388266,7 +388266,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1016,
-		costume = true
+		costume = false
 	},
 	[31460] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -388624,7 +388624,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1726,
-		costume = true
+		costume = false
 	},
 	[31476] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -389284,7 +389284,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1751,
-		costume = true
+		costume = false
 	},
 	[31510] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -389723,7 +389723,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1769,
-		costume = true
+		costume = false
 	},
 	[31530] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -390225,7 +390225,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 268,
-		costume = true
+		costume = false
 	},
 	[31559] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -390274,7 +390274,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1359,
-		costume = true
+		costume = false
 	},
 	[31561] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -390368,7 +390368,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1785,
-		costume = true
+		costume = false
 	},
 	[31565] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -390841,7 +390841,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1799,
-		costume = true
+		costume = false
 	},
 	[31588] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -390898,7 +390898,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1800,
-		costume = true
+		costume = false
 	},
 	[31590] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -390951,7 +390951,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1802,
-		costume = true
+		costume = false
 	},
 	[31599] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -391097,7 +391097,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1808,
-		costume = true
+		costume = false
 	},
 	[31608] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -391125,7 +391125,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1420,
-		costume = true
+		costume = false
 	},
 	[31609] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -392184,7 +392184,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1207,
-		costume = true
+		costume = false
 	},
 	[31662] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -392413,7 +392413,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1866,
-		costume = true
+		costume = false
 	},
 	[31673] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -392850,7 +392850,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 503,
-		costume = true
+		costume = false
 	},
 	[31697] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -393167,7 +393167,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1886,
-		costume = true
+		costume = false
 	},
 	[31710] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -393425,7 +393425,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1827,
-		costume = true
+		costume = false
 	},
 	[31721] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -393453,7 +393453,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1823,
-		costume = true
+		costume = false
 	},
 	[31723] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -394978,7 +394978,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1463,
-		costume = true
+		costume = false
 	},
 	[31787] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -396080,7 +396080,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 434,
-		costume = true
+		costume = false
 	},
 	[31839] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -396353,7 +396353,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1947,
-		costume = true
+		costume = false
 	},
 	[31850] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -396382,7 +396382,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1948,
-		costume = true
+		costume = false
 	},
 	[31851] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -397391,7 +397391,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1984,
-		costume = true
+		costume = false
 	},
 	[31907] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -397448,7 +397448,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1130,
-		costume = true
+		costume = false
 	},
 	[31911] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -398011,7 +398011,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2006,
-		costume = true
+		costume = false
 	},
 	[31938] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -398508,7 +398508,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2129,
-		costume = true
+		costume = false
 	},
 	[31975] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -445401,7 +445401,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2223,
-		costume = true
+		costume = false
 	},
 	[400254] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
