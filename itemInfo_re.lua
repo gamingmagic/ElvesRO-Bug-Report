@@ -254381,7 +254381,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Note Headphone",
+		identifiedDisplayName = "Note Headphones Kaho's Horn",
 		identifiedResourceName = "À½Ç¥ÇìµåÆù",
 		identifiedDescriptionName = {
 			"A cool looking set of headphones that have earmuffs designed to resemble music notes.",
@@ -254403,7 +254403,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 220,
-		costume = true
+		costume = false
 	},
 	[19613] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -262418,7 +262418,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Black Ribbon",
+		identifiedDisplayName = "Black Ribbon Kaho's Horn",
 		identifiedResourceName = "¸®º»_°ËÁ¤",
 		identifiedDescriptionName = {
 			"A long piece of black satin tied together into a neat little ribbon that wards off harmful magic.",
@@ -262440,7 +262440,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 242,
-		costume = true
+		costume = false
 	},
 	[19927] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -264011,7 +264011,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Lunatic Hat",
+		identifiedDisplayName = "Lunatic Hat Kaho's Horn",
 		identifiedResourceName = "·ç³ªÆ½¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A hat designed after a fluffy monster Lunatic.",
@@ -264033,7 +264033,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 521,
-		costume = true
+		costume = false
 	},
 	[19987] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -264868,7 +264868,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Zaha Doll Hat",
+		identifiedDisplayName = "Zaha Doll Hat Kaho's Horn",
 		identifiedResourceName = "ÀÚÇÏÀÎÇü¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A doll hat for costumes made in a cute way, imitating the beautiful celestial maiden, Bacsojin.",
@@ -264890,7 +264890,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 461,
-		costume = true
+		costume = false
 	},
 	[20021] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -264972,7 +264972,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Orange Ribbon",
+		identifiedDisplayName = "Orange Ribbon Kaho's Horn",
 		identifiedResourceName = "¸®º»_ÁÖÈ«",
 		identifiedDescriptionName = {
 			"A ribbon for a costume tied in the shape of a beautiful butterfly.",
@@ -264995,7 +264995,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 247,
-		costume = true
+		costume = false
 	},
 	[20025] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -272078,7 +272078,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Golden Savage Hat",
+		identifiedDisplayName = "Golden Savage Hat Kaho's Horn",
 		identifiedResourceName = "°ñµç¼¼ºñÁö¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A doll with Savage Bebe dyed in gold as a costume.",
@@ -272101,7 +272101,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 648,
-		costume = true
+		costume = false
 	},
 	[20302] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -275498,7 +275498,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Sky of Memory",
+		identifiedDisplayName = "Sky of Memory Kaho's Horn",
 		identifiedResourceName = "CÃß¾ïÀÇ¹ãÇÏ´Ã",
 		identifiedDescriptionName = {
 			"A beautiful magician hat with flower on it.",
@@ -381884,7 +381884,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Black Cowboy Hat",
+		identifiedDisplayName = "Black Cowboy Hat Kaho's Horn",
 		identifiedResourceName = "°ËÀº»öÄ«¿ìº¸ÀÌ¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A cowboy hat. It makes men look manlier and is cute when worn by women.",
@@ -387835,7 +387835,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Lazy Cat",
+		identifiedDisplayName = "Lazy Cat Kaho's Horn",
 		identifiedResourceName = "Èò»ö´Ã¾îÁø°í¾çÀÌ",
 		identifiedDescriptionName = {
 			"A cute kitty doll which can be worn on top of the head.",
@@ -393565,7 +393565,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Ribbon (Green)",
+		identifiedDisplayName = "Green Ribbon Kaho's Horn",
 		identifiedResourceName = "¸®º»_ÃÊ·Ï",
 		identifiedDescriptionName = {
 			"A ribbon for a costume tied in the shape of a beautiful butterfly.",
@@ -393588,7 +393588,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 244,
-		costume = true
+		costume = false
 	},
 	[31728] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -395574,7 +395574,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Light Bulb Hairband kaho's Horn",
+		identifiedDisplayName = "Light Bulb Hairband Kaho's Horn",
 		identifiedResourceName = "¹ÝÂ¦Àü±¸¸Ó¸®¶ì",
 		identifiedDescriptionName = {
 			"A light bulb band that shines light for clothes.",
@@ -395597,7 +395597,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 332,
-		costume = true
+		costume = false
 	},
 	[31813] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
