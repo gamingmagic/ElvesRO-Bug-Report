@@ -6605,7 +6605,7 @@ tbl = {
 			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Footgear^000000",
 			"Defense:^0000FF 4^000000",
-			"Weight:^009900 0^000000",
+			"Weight:^009900 350^000000",
 			"Level Requirement:^009900 94^000000",
 			"Jobs:^6666CC All^000000"
 		},
@@ -11089,7 +11089,7 @@ tbl = {
 			"Str +40, Mdef +7",
 			"Class:^6666CC Accessory^000000",
 			"Defense:^0000FF 2^000000",
-			"Weight:^009900 0^000000",
+			"Weight:^009900 800^000000",
 			"Level Requirement:^009900 94^000000",
 			"Jobs:^6666CC All^000000"
 		},
@@ -82421,7 +82421,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Omni Aura",
+		identifiedDisplayName = "Omni Aura",
 		identifiedResourceName = "atlantis_aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",

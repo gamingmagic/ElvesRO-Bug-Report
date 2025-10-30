@@ -443997,7 +443997,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Fluffy Rabbit Cape",
+		identifiedDisplayName = "Fluffy Rabbit Cape Kaho's Horn",
 		identifiedResourceName = "C_Fluffy_Rabbit_Cape",
 		identifiedDescriptionName = {
 			"Fluffy costume cape in the shape of a rabbit.",
@@ -444020,7 +444020,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2205,
-		costume = true
+		costume = false
 	},
 	[400226] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -444416,7 +444416,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Crushed Snowman",
+		identifiedDisplayName = "Crushed Snowman Kaho's Horn",
 		identifiedResourceName = "Crushed_Snow_Man",
 		identifiedDescriptionName = {
 			"A snowman squashed by someone.",
@@ -444438,7 +444438,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2204,
-		costume = true
+		costume = false
 	},
 	[400233] = {
 		unidentifiedDisplayName = "Unidentified Hat",
