@@ -101692,7 +101692,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "NIDHOGGSHADOW",
+    identifiedDisplayName = "Costume Nidhoggur's Shadow",
     identifiedResourceName = "NIDHOGGSHADOW",
     identifiedDescriptionName = {
         "_______________________",
@@ -101704,6 +101704,7 @@ tbl = {
     },
     slotCount = 0,
     ClassNum = 525
+	costume = true
 },
 [70758] = {
     unidentifiedDisplayName = "hat",

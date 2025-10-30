@@ -389729,7 +389729,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Great Dracula Horns",
+		identifiedDisplayName = "Great Dracula Kaho's Horn",
 		identifiedResourceName = "Greater_Dracul_Horn",
 		identifiedDescriptionName = {
 			"The horn helmet in costume variant with a worrisome atmosphere.",
@@ -389752,7 +389752,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1695,
-		costume = true
+		costume = false
 	},
 	[31531] = {
 		unidentifiedDisplayName = "Unidentified Hat",
