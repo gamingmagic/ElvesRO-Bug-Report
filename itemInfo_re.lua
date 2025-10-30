@@ -395643,7 +395643,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "ÇÞ",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Angora Rabbit Hat",
+		identifiedDisplayName = "Angora Rabbit Hat Kaho's Horn",
 		identifiedResourceName = "C_Angola_Intention",
 		identifiedDescriptionName = {
 			"A fluffy Angora rabbit hat.",
@@ -395667,7 +395667,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1925,
-		costume = true
+		costume = false
 	},
 	[31816] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",

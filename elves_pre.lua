@@ -76842,7 +76842,7 @@ tbl = {
 		unidentifiedResourceName = "±§»÷¿«∞›≥Î",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Rage Of Luster Kaho",
+		identifiedDisplayName = "Rage of Luster Kaho",
 		identifiedResourceName = "±§»÷¿«∞›≥Î",
 		identifiedDescriptionName = {
 			"A hat to commemorate the Sinulog Festival, you felt Stronger while wearing it.",
@@ -89204,7 +89204,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 105,
-		costume = true
+		costume = false
 	},
 	[20203] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -93536,7 +93536,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "«œ»∏≈ª",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Ear_OF_Bloody",
+		identifiedDisplayName = "Costume Ear of Bloody",
 		identifiedResourceName = "Ear_OF_Bloody",
 		identifiedDescriptionName = {
 			"Class:^6666CC Costume^000000",
@@ -93548,7 +93548,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2318,
-		costume = false
+		costume = true
 	},
 	[420094] = {
 		unidentifiedDisplayName = "Mask",
@@ -94147,7 +94147,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 403,
-		costume = false
+		costume = true
 	},
 	[70449] = {
 		unidentifiedDisplayName = "Accessory",
@@ -103098,7 +103098,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "cherubs winged helm red",
+    identifiedDisplayName = "Cherubs Winged Helm Red",
     identifiedResourceName = "cherubs_winged_helm_red",
     identifiedDescriptionName = {
 			"RWC Crown of victory.",
@@ -103106,7 +103106,7 @@ tbl = {
 			"All Stats +7",
 			"MDEF +5",
 			"_______________________",
-			"Prevents ^663399Stun^000000 status.",
+			"Prevents ^663399Silence^000000 status.",
 			"_______________________",
 			"^663399Indestructible in battle^000000",
 			"_______________________",
