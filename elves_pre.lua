@@ -89680,7 +89680,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Sleep_RedSheep",
+		identifiedDisplayName = "Costume Sleep Red Sheep",
 		identifiedResourceName = "Sleep_RedSheep",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -89854,7 +89854,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Sanctus",
+		identifiedDisplayName = "Costume Sanctus",
 		identifiedResourceName = "Sanctus",
 		identifiedDescriptionName = {
 
@@ -95281,7 +95281,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Not identified; can be identified using [Magnifying Glass]."
     },
-    identifiedDisplayName = "(Costume) Bear Candy Cart",
+    identifiedDisplayName = "Costume Bear Candy Cart",
     identifiedResourceName = "Bear_Candy_Cart",
     identifiedDescriptionName = {
         "A candy cart shaped like a teddy bear doll selling Poring cotton candy and bear gummy candies.",
@@ -95366,7 +95366,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Not identified; can be identified using [Magnifying Glass]."
     },
-    identifiedDisplayName = "C_Kitchen_Car",
+    identifiedDisplayName = "Costume Kitchen Car",
     identifiedResourceName = "C_Kitchen_Car",
     identifiedDescriptionName = {
         "Series: ^777777Headgear^000000 Defense: ^7777770^000000",
@@ -101956,7 +101956,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "c_big_lollipop",
+		identifiedDisplayName = "Costume Big Lollipop",
 		identifiedResourceName = "c_big_lollipop",
 		identifiedDescriptionName = {
 			"everywhere with you!",
@@ -102091,7 +102091,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Bear1",
+    identifiedDisplayName = "Costume Bear1",
     identifiedResourceName = "C_Bear1",
     identifiedDescriptionName = {
 
@@ -102111,7 +102111,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Bear2",
+    identifiedDisplayName = "Costume Bear2",
     identifiedResourceName = "C_Bear2",
     identifiedDescriptionName = {
 
@@ -102151,7 +102151,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Beaupretty",
+    identifiedDisplayName = "Costume Beaupretty",
     identifiedResourceName = "C_Beaupretty",
     identifiedDescriptionName = {
 
@@ -102171,7 +102171,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Beaupretty2",
+    identifiedDisplayName = "Costume Beaupretty2",
     identifiedResourceName = "C_Beaupretty2",
     identifiedDescriptionName = {
 
@@ -102191,7 +102191,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Beaupretty3",
+    identifiedDisplayName = "Costume Beaupretty3",
     identifiedResourceName = "C_Beaupretty3",
     identifiedDescriptionName = {
 
@@ -102211,7 +102211,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Blue Sword1",
+    identifiedDisplayName = "Costume Blue Sword1",
     identifiedResourceName = "C_Blue_Sword1",
     identifiedDescriptionName = {
 
@@ -102231,7 +102231,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Blue Sword2",
+    identifiedDisplayName = "Costume Blue Sword2",
     identifiedResourceName = "C_Blue_Sword2",
     identifiedDescriptionName = {
 
@@ -102251,7 +102251,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Blue Sword3",
+    identifiedDisplayName = "Costume Blue Sword3",
     identifiedResourceName = "C_Blue_Sword3",
     identifiedDescriptionName = {
 
@@ -102271,7 +102271,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Bowser",
+    identifiedDisplayName = "Costume Bowser",
     identifiedResourceName = "C_Bowser",
     identifiedDescriptionName = {
 
@@ -102291,7 +102291,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Flohrenberk",
+    identifiedDisplayName = "Costume Flohrenberk",
     identifiedResourceName = "C_Flohrenberk",
     identifiedDescriptionName = {
 
@@ -102431,7 +102431,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Grenade",
+    identifiedDisplayName = "Costume Grenade",
     identifiedResourceName = "C_Grenade",
     identifiedDescriptionName = {
 
@@ -102451,7 +102451,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Hojalata Cross",
+    identifiedDisplayName = "Costume Hojalata Cross",
     identifiedResourceName = "C_Hojalata_Cross",
     identifiedDescriptionName = {
 
@@ -102651,7 +102651,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Shimmering Devil Cloth",
+    identifiedDisplayName = "Costume Shimmering Devil Cloth Blue",
     identifiedResourceName = "C_Shimmering_Devil_Cloth",
     identifiedDescriptionName = {
 
@@ -102671,7 +102671,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Shimmering Devil Cloth1",
+    identifiedDisplayName = "Costume Shimmering Devil Cloth Red",
     identifiedResourceName = "C_Shimmering_Devil_Cloth1",
     identifiedDescriptionName = {
 
@@ -102691,7 +102691,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Shimmering Devil Cloth2",
+    identifiedDisplayName = "Costume Shimmering Devil Cloth Violet",
     identifiedResourceName = "C_Shimmering_Devil_Cloth2",
     identifiedDescriptionName = {
 
@@ -102711,7 +102711,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Sweet Magic W",
+    identifiedDisplayName = "Costume Sweet Magic Wand",
     identifiedResourceName = "C_Sweet_Magic_W",
     identifiedDescriptionName = {
 
@@ -102731,7 +102731,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C TensouSentai",
+    identifiedDisplayName = "Costume Tensou Sentai",
     identifiedResourceName = "C_TensouSentai",
     identifiedDescriptionName = {
 
@@ -102771,7 +102771,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Tripple Sword",
+    identifiedDisplayName = "Costume Triple Sword",
     identifiedResourceName = "C_Tripple_Sword",
     identifiedDescriptionName = {
 
@@ -102791,7 +102791,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Twin Sword Cover",
+    identifiedDisplayName = "Costume Twin Sword Cover",
     identifiedResourceName = "C_Twin_Sword_Cover",
     identifiedDescriptionName = {
 
@@ -102811,7 +102811,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "C Wisteria G",
+    identifiedDisplayName = "Costume  Wisteria G",
     identifiedResourceName = "C_Wisteria_G",
     identifiedDescriptionName = {
 
@@ -102885,7 +102885,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shadow Weapon",
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[C]Mjolnir",
+		identifiedDisplayName = "Costume Mjolnir",
 		identifiedResourceName = "¹¦¸£´Ò",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",

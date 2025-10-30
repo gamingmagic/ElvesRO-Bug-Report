@@ -442410,7 +442410,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ĸ",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Dropping Betelgeuse",
+		identifiedDisplayName = "Dropping Betelgeuse Kaho's Horn",
 		identifiedResourceName = "Drooping_Betelgeuse",
 		identifiedDescriptionName = {
 			"A drooping Betelgeuse doll.",
@@ -442433,7 +442433,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2114,
-		costume = true
+		costume = false
 	},
 	[400148] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
