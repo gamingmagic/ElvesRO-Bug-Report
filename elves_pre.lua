@@ -100366,7 +100366,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hairband",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "indigo blue droopy cat Kaho's Horn",
+		identifiedDisplayName = "Drooping Indigo Blue Cat Kaho's Horn",
 		identifiedResourceName = "남색늘어진고양이",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",

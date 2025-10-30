@@ -262191,7 +262191,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Black Cat Hat",
+		identifiedDisplayName = "Black Cat Hat Kaho's Horn",
 		identifiedResourceName = "°ËÀº°í¾çÀÌ¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A hat decorated with black cat.",
@@ -262213,7 +262213,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1105,
-		costume = true
+		costume = false
 	},
 	[19917] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -270467,7 +270467,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Drooping Blue Cat",
+		identifiedDisplayName = "Drooping Blue Cat Kaho's Horn",
 		identifiedResourceName = "ÆÄ¶û´Ã¾îÁø°í¾çÀÌ",
 		identifiedDescriptionName = {
 			"A stuffed toy that you can put on your head and walk.",
@@ -270490,7 +270490,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 277,
-		costume = true
+		costume = false
 	},
 	[20239] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -270644,7 +270644,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Cat Paw Hairpin",
+		identifiedDisplayName = "Cat Paw Hairpin Kaho's Horn",
 		identifiedResourceName = "°í¾çÀÌ¹ß¸Ó¸®ÇÉ",
 		identifiedDescriptionName = {
 			"A hairpin which resembles the shape of a cat's paw.",
@@ -270666,7 +270666,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 447,
-		costume = true
+		costume = false
 	},
 	[20246] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -271132,7 +271132,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hairband",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Sleeping Cat Hat",
+		identifiedDisplayName = "Sleeping Cat Hat Kaho's Horn",
 		identifiedResourceName = "SLEEPYCAT_HAT",
 		identifiedDescriptionName = {
 			"Hat that refer to shape of sleeping cat. If you wake up sleeping cat, you will be suffered.",
@@ -271154,7 +271154,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 2266,
-		costume = true
+		costume = false
 	},
 	[20264] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -379447,7 +379447,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Cat Lace Hairband",
+		identifiedDisplayName = "Cat Lace Hairband Kaho's Horn",
 		identifiedResourceName = "°í¾çÀÌ·¹ÀÌ½º¸Ó¸®¶ì",
 		identifiedDescriptionName = {
 			"A hairband decorated with a cute kitten doll. The lace makes it even cuter!",
@@ -379469,7 +379469,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 816,
-		costume = true
+		costume = false
 	},
 	[31042] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -383157,7 +383157,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Vibrant Cat Ears",
+		identifiedDisplayName = "Vibrant Cat Ears Kaho's Horn",
 		identifiedResourceName = "WHIKEBAIN_EARS_GOLD",
 		identifiedDescriptionName = {
 			"^ff0000Cannot be traded^000000",
@@ -383180,13 +383180,13 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1588,
-		costume = true
+		costume = false
 	},
 	[31192] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Blue Cat Ears",
+		identifiedDisplayName = "Blue Cat Ears Kaho's Horn",
 		identifiedResourceName = "BLUECAT_EAR",
 		identifiedDescriptionName = {
 			"^ff0000Cannot be traded^000000",
@@ -383209,7 +383209,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1589,
-		costume = true
+		costume = false
 	},
 	[31193] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -383510,7 +383510,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Drooping White Cat",
+		identifiedDisplayName = "Drooping White Cat Kaho's Horn",
 		identifiedResourceName = "´Ã¾îÁøÇÏ¾á°í¾çÀÌ",
 		identifiedDescriptionName = {
 			"A mysterious cat hat whose facial expressions change according to your mood.",
@@ -383532,7 +383532,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 378,
-		costume = true
+		costume = false
 	},
 	[31205] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -386694,7 +386694,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇÞ",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Punkish Cat Ears",
+		identifiedDisplayName = "Punkish Cat Ears Kaho's Horn",
 		identifiedResourceName = "Cat_Ears_Punkish",
 		identifiedDescriptionName = {
 			"A big cat hands hanging beside your head.",
@@ -386717,7 +386717,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1682,
-		costume = true
+		costume = false
 	},
 	[31383] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -387857,7 +387857,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 274,
-		costume = true
+		costume = false
 	},
 	[31437] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -388214,7 +388214,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Baby Leopard Cat",
+		identifiedDisplayName = "Baby Leopard Cat Kaho's Horn",
 		identifiedResourceName = "C_Baby_Leopard_Cat",
 		identifiedDescriptionName = {
 			"A cute outfit in the image of a wild cat holding and hugging.",
@@ -388237,7 +388237,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1719,
-		costume = true
+		costume = false
 	},
 	[31457] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
@@ -388742,7 +388742,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Cat Coffee Cup",
+		identifiedDisplayName = "Cat Coffee Cup Kaho's Horn",
 		identifiedResourceName = "CatCoffeeCup",
 		identifiedDescriptionName = {
 			"Coffee Cup Hat with a cat in it.",
@@ -388765,7 +388765,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1731,
-		costume = true
+		costume = false
 	},
 	[31482] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -389178,7 +389178,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Malangdo Pirate",
+		identifiedDisplayName = "Malangdo Pirate Kaho's Horn",
 		identifiedResourceName = "¸»¶ûÇØÀû´Ü¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A uniform hat, with a cute design that is well matched with cat's ears.",
@@ -389200,13 +389200,13 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1587,
-		costume = true
+		costume = false
 	},
 	[31507] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Drooping Cat Yellow",
+		identifiedDisplayName = "Drooping Yellow Cat Kaho's Horn",
 		identifiedResourceName = "³ë¶û´Ã¾îÁø°í¾çÀÌ",
 		identifiedDescriptionName = {
 			"Oh look! A yellow cat on your head.",
@@ -389228,7 +389228,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 278,
-		costume = true
+		costume = false
 	},
 	[31508] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -390551,7 +390551,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Mecha Cat Ears",
+		identifiedDisplayName = "Mecha Cat Ears Kaho's Horn",
 		identifiedResourceName = "C_Mecha_Cat_Ears",
 		identifiedDescriptionName = {
 			"Cat ears for costumes made of solid material.",
@@ -390575,7 +390575,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1789,
-		costume = true
+		costume = false
 	},
 	[31574] = {
 		unidentifiedDisplayName = "Unidentified Glasses",
@@ -391426,7 +391426,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Cat Heart",
+		identifiedDisplayName = "Cat Heart Kaho's Horn",
 		identifiedResourceName = "HeartOfCat",
 		identifiedDescriptionName = {
 			"Watching a cat snuggle over your head relaxes you.",
@@ -391449,7 +391449,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1822,
-		costume = true
+		costume = false
 	},
 	[31625] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -395912,7 +395912,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇÞ",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Whitch's Cat Hat",
+		identifiedDisplayName = "Witch's Cat Hat Kaho's Horn",
 		identifiedResourceName = "C_Bicolor_Cat_Witch_Hat",
 		identifiedDescriptionName = {
 			"A hat for costumes with a tuxedo cat motive.",
@@ -395936,7 +395936,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1938,
-		costume = true
+		costume = false
 	},
 	[31833] = {
 		unidentifiedDisplayName = "Unidentified Hat",
