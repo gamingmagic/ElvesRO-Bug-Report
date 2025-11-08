@@ -6605,7 +6605,7 @@ tbl = {
 			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Footgear^000000",
 			"Defense:^0000FF 4^000000",
-			"Weight:^009900 350^000000",
+			"Weight:^009900 0^000000",
 			"Level Requirement:^009900 94^000000",
 			"Jobs:^6666CC All^000000"
 		},
@@ -11089,7 +11089,7 @@ tbl = {
 			"Str +40, Mdef +7",
 			"Class:^6666CC Accessory^000000",
 			"Defense:^0000FF 2^000000",
-			"Weight:^009900 800^000000",
+			"Weight:^009900 0^000000",
 			"Level Requirement:^009900 94^000000",
 			"Jobs:^6666CC All^000000"
 		},
@@ -76842,7 +76842,7 @@ tbl = {
 		unidentifiedResourceName = "±¤ÈÖÀÇ°Ý³ë",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Rage of Luster Kaho",
+		identifiedDisplayName = "Rage Of Luster Kaho",
 		identifiedResourceName = "±¤ÈÖÀÇ°Ý³ë",
 		identifiedDescriptionName = {
 			"A hat to commemorate the Sinulog Festival, you felt Stronger while wearing it.",
@@ -79762,7 +79762,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Apple of Archer Kaho's Horn",
+		identifiedDisplayName = "Apple of Archer Kaho",
 		identifiedResourceName = "¸í»ç¼öÀÇ»ç°ú",
 		identifiedDescriptionName = {
 			"A headgear made in the honor of the legendary archer who shot an apple, on top of a friend's head, from a long distance.",
@@ -79786,7 +79786,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Helm Kaho's Horn",
+		identifiedDisplayName = "Helm Kaho",
 		identifiedResourceName = "Çï¸§",
 		identifiedDescriptionName = {
 			"This steel helmet, made in the style worn by roman soldiers, offers great protection, covering most of the head.",
@@ -79810,7 +79810,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Wizard Hat Kaho's Horn",
+		identifiedDisplayName = "Wizard Hat Kaho",
 		identifiedResourceName = "À§ÀúµåÇÞ",
 		identifiedDescriptionName = {
 			"A mystic hat, made specifically for wizards, which amplifies pyschic power.",
@@ -79835,7 +79835,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Joker Jester Kaho's Horn",
+		identifiedDisplayName = "Joker Jester Kaho",
 		identifiedResourceName = "±¤´ë¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A comical hat worn by clowns and jesters that is rumored to protect its wearer from magic.",
@@ -79933,7 +79933,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Puppy Headband Kaho's Horn",
+		identifiedDisplayName = "Puppy Headband Kaho",
 		identifiedResourceName = "°­¾ÆÁö±Í",
 		identifiedDescriptionName = {
 			"A cute headband that looks just like a pair of adorable puppy ears.",
@@ -80237,7 +80237,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Army Cap Kaho's Horn",
+		identifiedDisplayName = "Army Cap Kaho",
 		identifiedResourceName = "ÇÁ·ÐÅ×¶ó±º¸ð",
 		identifiedDescriptionName = {
 			"A squad cap issued by the Prontera Military.",
@@ -80278,7 +80278,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Angel Wings Kaho's Horn",
+		identifiedDisplayName = "Angel Wings Kaho",
 		identifiedResourceName = "Ãµ»çÀÇ¸Ó¸®¶ì",
 		identifiedDescriptionName = {
 			"A headband adorned with what appears to be the wings of an angel.",
@@ -80303,7 +80303,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evil Wings Kaho's Horn",
+		identifiedDisplayName = "Evil Wings Kaho",
 		identifiedResourceName = "¾Ç¸¶ÀÇ¸Ó¸®¶ì",
 		identifiedDescriptionName = {
 			"A headgear that look like the wings of a Demon.",
@@ -80448,7 +80448,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Succubus Kaho's Horn",
+		identifiedDisplayName = "Kaho: Succubus Horn",
 		identifiedResourceName = "¼­Å¥¹ö½º»Ô",
 		identifiedDescriptionName = {
 			"A headgear which resembles the horns of Succubus.",
@@ -80834,7 +80834,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Boy's Cap Kaho's Horn",
+		identifiedDisplayName = "Kaho: Boy's Cap",
 		identifiedResourceName = "ÇÐ»ý¸ð",
 		identifiedDescriptionName = {
 			"A black cap that is usually worn by boys attending schools that require uniforms.",
@@ -81601,7 +81601,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Hokage Kaho's Horn",
+		identifiedDisplayName = "Hokage",
 		identifiedResourceName = "hokage",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -81629,7 +81629,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Mizukage Kaho's Horn",
+		identifiedDisplayName = "Mizukage",
 		identifiedResourceName = "Blue_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -81657,7 +81657,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Raikage Kaho's Horn",
+		identifiedDisplayName = "Raikage",
 		identifiedResourceName = "Yellow_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -81685,7 +81685,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Kazekage Kaho's Horn",
+		identifiedDisplayName = "Kazekage",
 		identifiedResourceName = "Green_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -81713,7 +81713,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Tsuchikage Kaho's Horn",
+		identifiedDisplayName = "Tsuchikage",
 		identifiedResourceName = "White_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -81741,7 +81741,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Kakashi Head Protector Kaho's Horn",
+		identifiedDisplayName = "Kakashi Head Protector",
 		identifiedResourceName = "headprotector_earth",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -82421,7 +82421,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Omni Aura",
+		identifiedDisplayName = "Costume Omni Aura",
 		identifiedResourceName = "atlantis_aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -88614,7 +88614,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 553,
-		costume = false
+		costume = true
 	},
 	[70291] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
@@ -89204,7 +89204,7 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 105,
-		costume = false
+		costume = true
 	},
 	[20203] = {
 		unidentifiedDisplayName = "Unidentified Hat",
@@ -89680,7 +89680,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Sleep Red Sheep",
+		identifiedDisplayName = "Sleep_RedSheep",
 		identifiedResourceName = "Sleep_RedSheep",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -89854,7 +89854,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Sanctus",
+		identifiedDisplayName = "Sanctus",
 		identifiedResourceName = "Sanctus",
 		identifiedDescriptionName = {
 
@@ -93536,7 +93536,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "ÇÏÈ¸Å»",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Costume Ear of Bloody",
+		identifiedDisplayName = "Ear_OF_Bloody",
 		identifiedResourceName = "Ear_OF_Bloody",
 		identifiedDescriptionName = {
 			"Class:^6666CC Costume^000000",
@@ -93548,7 +93548,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2318,
-		costume = true
+		costume = false
 	},
 	[420094] = {
 		unidentifiedDisplayName = "Mask",
@@ -93572,7 +93572,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "ÇÏÈ¸Å»",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Costume Rocking Short",
+		identifiedDisplayName = "C Rocking Short",
 		identifiedResourceName = "C_Rocking_Short",
 		identifiedDescriptionName = {
 			"Class:^6666CC Costume^000000",
@@ -93584,7 +93584,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2225,
-		costume = true
+		costume = false
 	},
 	[400258] = {
 		unidentifiedDisplayName = "Mask",
@@ -94147,7 +94147,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 403,
-		costume = true
+		costume = false
 	},
 	[70449] = {
 		unidentifiedDisplayName = "Accessory",
@@ -95281,7 +95281,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Not identified; can be identified using [Magnifying Glass]."
     },
-    identifiedDisplayName = "Costume Bear Candy Cart",
+    identifiedDisplayName = "(Costume) Bear Candy Cart",
     identifiedResourceName = "Bear_Candy_Cart",
     identifiedDescriptionName = {
         "A candy cart shaped like a teddy bear doll selling Poring cotton candy and bear gummy candies.",
@@ -95366,7 +95366,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Not identified; can be identified using [Magnifying Glass]."
     },
-    identifiedDisplayName = "Costume Kitchen Car",
+    identifiedDisplayName = "C_Kitchen_Car",
     identifiedResourceName = "C_Kitchen_Car",
     identifiedDescriptionName = {
         "Series: ^777777Headgear^000000 Defense: ^7777770^000000",
@@ -100366,7 +100366,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hairband",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Drooping Indigo Blue Cat Kaho's Horn",
+		identifiedDisplayName = "indigo blue droopy cat Kaho's Horn",
 		identifiedResourceName = "³²»ö´Ã¾îÁø°í¾çÀÌ",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -101692,7 +101692,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Nidhoggur's Shadow",
+    identifiedDisplayName = "NIDHOGGSHADOW",
     identifiedResourceName = "NIDHOGGSHADOW",
     identifiedDescriptionName = {
         "_______________________",
@@ -101703,8 +101703,7 @@ tbl = {
         "^0000CCRequirement:^000000 None"
     },
     slotCount = 0,
-    ClassNum = 525,
-	costume = true
+    ClassNum = 525
 },
 [70758] = {
     unidentifiedDisplayName = "hat",
@@ -101957,7 +101956,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Big Lollipop",
+		identifiedDisplayName = "c_big_lollipop",
 		identifiedResourceName = "c_big_lollipop",
 		identifiedDescriptionName = {
 			"everywhere with you!",
@@ -102092,7 +102091,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Bear1",
+    identifiedDisplayName = "C Bear1",
     identifiedResourceName = "C_Bear1",
     identifiedDescriptionName = {
 
@@ -102112,7 +102111,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Bear2",
+    identifiedDisplayName = "C Bear2",
     identifiedResourceName = "C_Bear2",
     identifiedDescriptionName = {
 
@@ -102152,7 +102151,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Beaupretty",
+    identifiedDisplayName = "C Beaupretty",
     identifiedResourceName = "C_Beaupretty",
     identifiedDescriptionName = {
 
@@ -102172,7 +102171,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Beaupretty2",
+    identifiedDisplayName = "C Beaupretty2",
     identifiedResourceName = "C_Beaupretty2",
     identifiedDescriptionName = {
 
@@ -102192,7 +102191,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Beaupretty3",
+    identifiedDisplayName = "C Beaupretty3",
     identifiedResourceName = "C_Beaupretty3",
     identifiedDescriptionName = {
 
@@ -102212,7 +102211,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Blue Sword1",
+    identifiedDisplayName = "C Blue Sword1",
     identifiedResourceName = "C_Blue_Sword1",
     identifiedDescriptionName = {
 
@@ -102232,7 +102231,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Blue Sword2",
+    identifiedDisplayName = "C Blue Sword2",
     identifiedResourceName = "C_Blue_Sword2",
     identifiedDescriptionName = {
 
@@ -102252,7 +102251,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Blue Sword3",
+    identifiedDisplayName = "C Blue Sword3",
     identifiedResourceName = "C_Blue_Sword3",
     identifiedDescriptionName = {
 
@@ -102272,7 +102271,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Bowser",
+    identifiedDisplayName = "C Bowser",
     identifiedResourceName = "C_Bowser",
     identifiedDescriptionName = {
 
@@ -102292,7 +102291,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Flohrenberk",
+    identifiedDisplayName = "C Flohrenberk",
     identifiedResourceName = "C_Flohrenberk",
     identifiedDescriptionName = {
 
@@ -102432,7 +102431,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Grenade",
+    identifiedDisplayName = "C Grenade",
     identifiedResourceName = "C_Grenade",
     identifiedDescriptionName = {
 
@@ -102452,7 +102451,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Hojalata Cross",
+    identifiedDisplayName = "C Hojalata Cross",
     identifiedResourceName = "C_Hojalata_Cross",
     identifiedDescriptionName = {
 
@@ -102652,7 +102651,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Shimmering Devil Cloth Blue",
+    identifiedDisplayName = "C Shimmering Devil Cloth",
     identifiedResourceName = "C_Shimmering_Devil_Cloth",
     identifiedDescriptionName = {
 
@@ -102672,7 +102671,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Shimmering Devil Cloth Red",
+    identifiedDisplayName = "C Shimmering Devil Cloth1",
     identifiedResourceName = "C_Shimmering_Devil_Cloth1",
     identifiedDescriptionName = {
 
@@ -102692,7 +102691,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Shimmering Devil Cloth Violet",
+    identifiedDisplayName = "C Shimmering Devil Cloth2",
     identifiedResourceName = "C_Shimmering_Devil_Cloth2",
     identifiedDescriptionName = {
 
@@ -102712,7 +102711,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Sweet Magic Wand",
+    identifiedDisplayName = "C Sweet Magic W",
     identifiedResourceName = "C_Sweet_Magic_W",
     identifiedDescriptionName = {
 
@@ -102732,7 +102731,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Tensou Sentai",
+    identifiedDisplayName = "C TensouSentai",
     identifiedResourceName = "C_TensouSentai",
     identifiedDescriptionName = {
 
@@ -102772,7 +102771,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Triple Sword",
+    identifiedDisplayName = "C Tripple Sword",
     identifiedResourceName = "C_Tripple_Sword",
     identifiedDescriptionName = {
 
@@ -102792,7 +102791,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume Twin Sword Cover",
+    identifiedDisplayName = "C Twin Sword Cover",
     identifiedResourceName = "C_Twin_Sword_Cover",
     identifiedDescriptionName = {
 
@@ -102812,7 +102811,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Costume  Wisteria G",
+    identifiedDisplayName = "C Wisteria G",
     identifiedResourceName = "C_Wisteria_G",
     identifiedDescriptionName = {
 
@@ -102886,7 +102885,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shadow Weapon",
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Mjolnir",
+		identifiedDisplayName = "[C]Mjolnir",
 		identifiedResourceName = "¹¦¸£´Ò",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
@@ -103098,7 +103097,7 @@ tbl = {
     unidentifiedDescriptionName = {
         "Unidentified item, can be identified with [Magnifier].",
     },
-    identifiedDisplayName = "Cherubs Winged Helm Red",
+    identifiedDisplayName = "cherubs winged helm red",
     identifiedResourceName = "cherubs_winged_helm_red",
     identifiedDescriptionName = {
 			"RWC Crown of victory.",
@@ -103106,7 +103105,7 @@ tbl = {
 			"All Stats +7",
 			"MDEF +5",
 			"_______________________",
-			"Prevents ^663399Silence^000000 status.",
+			"Prevents ^663399Stun^000000 status.",
 			"_______________________",
 			"^663399Indestructible in battle^000000",
 			"_______________________",
@@ -103694,7 +103693,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mace",
 		unidentifiedResourceName = "Å¬·´",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Gates of Nether World Kaho's Horn",
+		identifiedDisplayName = "Gatesof Nether World Kaho's Horn",
 		identifiedResourceName = "GatesofNetherworld",
 		identifiedDescriptionName = {
 			"It's perfect to wear in the blazing heat.",
@@ -104738,6 +104737,83 @@ tbl = {
 		ClassNum = 912,
 		costume = true
 	},
+	[400684] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸Ó¸®¶ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Jerboa's Headband Kaho's Horn",
+		identifiedResourceName = "C_Jerboa_Headband",
+		identifiedDescriptionName = {
+			"A decoration modeled after the large ears of a jerboa is attached to the headband.",
+			"It is said to have been created by some enthusiasts in the Kingdom of Rune-Midgards.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 2548,
+		costume = false
+	},
+	[400683] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "ÇÞ",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Bell Flower Kaho's Horn",
+		identifiedResourceName = "C_Bell_Flower_Hat",
+		identifiedDescriptionName = {
+			"A cute fairy-like costume hat with a bell made of flower petals on the head.",
+			"When worn with the Costume Sweet Flower Garden or Costume Cherry Blossom Wand, it adds the effect of fluttering cherry blossom petals.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 2550,
+		costume = false
+	},
+	[410338] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Sun God",
+		identifiedResourceName = "C_Helm_Of_Ra_KR",
+		identifiedDescriptionName = {
+			"A costume depicting the fiery golden falcon, symbolizing the God of the Sun.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2555,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
@@ -104783,4 +104859,3 @@ function main()
   		end
   	return result, msg
 end
-
