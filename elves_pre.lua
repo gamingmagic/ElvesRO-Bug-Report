@@ -101703,7 +101703,7 @@ tbl = {
         "^0000CCRequirement:^000000 None"
     },
     slotCount = 0,
-    ClassNum = 525
+    ClassNum = 525,
 	costume = true
 },
 [70758] = {
@@ -104783,3 +104783,4 @@ function main()
   		end
   	return result, msg
 end
+
