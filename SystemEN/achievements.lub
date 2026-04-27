@@ -1,0 +1,124 @@
+achievement_tbl = {
+	[300000] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 1,
+		minor = 2,
+		title = "Acquire Airdropped Reward!",
+		content = {
+			summary = "Airdropped title",
+			details = "Title Benefits\n\t- VIT +3\n\t- HIT +5"
+		},
+		resource = {},
+		reward = { title = 1048 },
+		score = 10
+	},
+	[300001] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 1,
+		minor = 2,
+		title = "Bronze Tier Pre-Sale Supporter",
+		content = {
+			summary = "Purchase Bronze Tier Pre-Sale Pack",
+			details = "The \'Glory\' title is available to players who purchased the Bronze Tier Pre-Sale Pack.\nTitle Benefits\n\t- All Stats +1"
+		},
+		resource = {},
+		reward = { title = 1049 },
+		score = 10
+	},
+	[300002] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 1,
+		minor = 2,
+		title = "Silver Tier Pre-Sale Supporter",
+		content = {
+			summary = "Purchase Silver Tier Pre-Sale Pack",
+			details = "The \'Protector of Midgard\' title is available to players who purchased the Silver Tier Pre-Sale Pack.\nTitle Benefits\n\t- All Stats +1"
+		},
+		resource = {},
+		reward = { title = 1050 },
+		score = 10
+	},
+	[300003] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 1,
+		minor = 2,
+		title = "Gold Tier Pre-Sale Supporter",
+		content = {
+			summary = "Purchase Gold Tier Pre-Sale Pack",
+			details = "The \'Noblesse\' title is available to players who purchased the Gold Tier Pre-Sale Pack.\nTitle Benefits\n\t- All Stats +3"
+		},
+		resource = {},
+		reward = { title = 1051 },
+		score = 10
+	},
+	[300004] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 1,
+		minor = 2,
+		title = "Platinum Tier Pre-Sale Supporter",
+		content = {
+			summary = "Purchase Platinum Tier Pre-Sale Pack",
+			details = "The \'Founder\' title is available to players who purchased the Platinum Tier Pre-Sale Pack.\nTitle Benefits\n\t- All Stats +5"
+		},
+		resource = {},
+		reward = { title = 1052 },
+		score = 10
+	},
+}
+
+function main()
+	for achieveID, achieveInfo in pairs(achievement_tbl) do
+		result, msg = InsertAchieveInfo(achieveID, achieveInfo.title, achieveInfo.content.summary, achieveInfo.content.details, achieveInfo.score)
+		if not result then
+			return false, msg
+		end
+		if nil ~= achieveInfo.resource then
+			for index, resource in ipairs(achieveInfo.resource) do
+				if nil ~= resource.shortcut then
+					shortcut = resource.shortcut
+				else
+					shortcut = -1
+				end
+				if 0 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, 0, shortcut)
+				elseif 1 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, resource.count, shortcut)
+				end
+				if not result then
+					return false, msg
+				end
+			end
+		end
+		if nil ~= achieveInfo.reward then
+			if nil ~= achieveInfo.reward.item then
+				result, msg = InsertAchieveRewardItem(achieveID, achieveInfo.reward.item)
+			end
+			if nil ~= achieveInfo.reward.title then
+				result, msg = InsertAchieveRewardTitle(achieveID, achieveInfo.reward.title)
+				if not result then
+					return false, msg
+				end
+			end
+			if nil ~= achieveInfo.reward.buff then
+				result, msg = InsertAchieveRewardBuff(achieveID, achieveInfo.reward.buff)
+				if not result then
+					return false, msg
+				end
+			end
+		end
+		result, msg = InsertAchieveUIType(achieveID, achieveInfo.UI_Type, achieveInfo.group)
+		if not result then
+			return false, msg
+		end
+		result, msg = SetAchieveIDByTab(achieveID, achieveInfo.major, achieveInfo.minor)
+		if not result then
+			return false, msg
+		end
+	end
+	return true, "good"
+end

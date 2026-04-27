@@ -1,0 +1,29 @@
+-- Original translation works of zackdreaver: https://github.com/zackdreaver/ROenglishRE
+-- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
+-- This file can be distributed, used and modified freely
+-- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
+-- Last updated: 20230321
+
+RecommendedQuestInfoList = {}
+RecommendedQuestInfoList = {
+	[1] = {
+		Title = "Welcome to Payon Life!",
+		IconName = "ico_gq.bmp",
+		Summary = "Enjoy this classic private server!",
+		NpcSpr = "LIF",
+		NpcNavi = "iz_ac01",
+		NpcPosX = 102,
+		NpcPosY = 44,
+		BgName = "reco_01.bmp",
+		QuestInfo1 = {
+			"Step back into the golden age of Classic Ragnarok Online, where balance, challenge, and nostalgia reign.",
+			"Our world is faithfully tuned to Episode 10.2 Lighthalzen, featuring original pre-renewal mechanics, authentic drop tables, and the timeless grind that made the legends of Rune-Midgard."
+		},
+		QuestInfo2 = {
+			"Start humble, grow into a legend, and relive the adventures that defined a generation."
+		},
+		QuestInfo3 = {
+			"^ff0000Forge your path, form a party, and write your story! The Classic Era awaits once more.^000000"
+		}
+	},
+		}
